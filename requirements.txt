@@ -1,0 +1,4 @@
+julia>=0.5.3
+numpy>=1.18.5
+numba>=0.47.0
+jupyterlab>=0.33.12
